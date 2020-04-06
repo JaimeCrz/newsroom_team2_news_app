@@ -4,6 +4,6 @@ describe("User Interface:", () => {
   });
 
   it("displays first header header", () => {
-    cy.get("h1").should("contain", "Urban Living");
+    cy.get("#tagline").should("contain", "A source of work / life inspiration for young professionals.");
   });
 });

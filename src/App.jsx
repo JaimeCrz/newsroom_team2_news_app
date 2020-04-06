@@ -34,13 +34,13 @@ const App = props => {
         payload: { session: { edition: currentSession.data.session.edition } }
       });
     });
-  }, []);
+  }, [dispatch]);
   return (
     <Grommet full theme={grommet}>
       <Main fill align="center" justify="center">
         <LanguageSelector />
         <Heading>
-          <img src={LogoOlive} />
+          <img src={LogoOlive} alt="logo"/>
         </Heading>
         <div id="clock">
           <Clock type="digital" />

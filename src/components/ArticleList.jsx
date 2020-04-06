@@ -11,7 +11,7 @@ class ArticleList extends Component {
         type: "ARTICLES",
         payload: { articleList: response.data }
       });
-    });
+    }); debugger
   }
 
   async articleFetcher(event) {

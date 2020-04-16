@@ -1,4 +1,4 @@
-# ![Urban Living](public/LogoOlive.png) (Visitior interface)
+# ![Urban Living](src/LogoOlive.png) (Visitior interface)
 # Some words
 The client wants three versions of a news application. The [visitors interface](https://github.com/kfrostare-Newsroom/newsroom_team2_news_app), the [admin interface](https://github.com/kfrostare-Newsroom/newsroom_team2_internal) and a [mobile application](https://github.com/kfrostare-Newsroom/newsroom_team2_mobile) plus of course a [API](https://github.com/kfrostare-Newsroom/newsroom_team2_api).
 # The MVP product

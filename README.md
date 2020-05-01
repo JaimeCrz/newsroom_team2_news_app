@@ -1,4 +1,9 @@
 # ![Urban Living](src/LogoOlive.png) (Visitior interface)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59ffceb8-2e46-44c2-a03d-323927e8dbac/deploy-status)](https://app.netlify.com/sites/adoring-payne-d8d242/deploys)
+
+[![Build Status](https://semaphoreci.com/api/v1/blake-futchi/newsroom_team2_news_app/branches/development/badge.svg)](https://semaphoreci.com/blake-futchi/newsroom_team2_news_app)
+
 # Some words
 The client wants three versions of a news application. The [visitors interface](https://github.com/kfrostare-Newsroom/newsroom_team2_news_app), the [admin interface](https://github.com/kfrostare-Newsroom/newsroom_team2_internal) and a [mobile application](https://github.com/kfrostare-Newsroom/newsroom_team2_mobile) plus of course a [API](https://github.com/kfrostare-Newsroom/newsroom_team2_api).
 # The MVP product
